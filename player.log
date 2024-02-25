@@ -1,0 +1,72 @@
+2024-02-25 11:47:59.780 [INFO] [restartedMain]
+				[com.ninyo.player.Application:50] Starting Application using Java 21.0.1 with PID 20100 (E:\zMy Drive\workspace_intellij\Spring Batch\player-service\target\classes started by Oren in E:\zMy Drive\workspace_intellij\Spring Batch\player-service)
+2024-02-25 11:47:59.802 [INFO] [restartedMain]
+				[com.ninyo.player.Application:654] No active profile set, falling back to 1 default profile: "default"
+2024-02-25 11:48:04.511 [INFO] [restartedMain]
+				[com.zaxxer.hikari.HikariDataSource:110] HikariPool-1 - Starting...
+2024-02-25 11:48:05.663 [INFO] [restartedMain]
+				[com.zaxxer.hikari.pool.HikariPool:565] HikariPool-1 - Added connection conn0: url=jdbc:h2:file:./data/playerdb user=SA
+2024-02-25 11:48:05.669 [INFO] [restartedMain]
+				[com.zaxxer.hikari.HikariDataSource:123] HikariPool-1 - Start completed.
+2024-02-25 11:48:06.099 [INFO] [restartedMain]
+				[org.hibernate.jpa.internal.util.LogHelper:31] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-25 11:48:06.368 [INFO] [restartedMain]
+				[org.hibernate.Version:44] HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-02-25 11:48:06.462 [INFO] [restartedMain]
+				[org.hibernate.cache.internal.RegionFactoryInitiator:50] HHH000026: Second-level cache disabled
+2024-02-25 11:48:10.616 [INFO] [restartedMain]
+				[org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-02-25 11:48:11.753 [INFO] [restartedMain]
+				[org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8080"]
+2024-02-25 11:48:11.763 [INFO] [restartedMain]
+				[org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2024-02-25 11:48:11.765 [INFO] [restartedMain]
+				[org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-02-25 11:48:12.249 [INFO] [restartedMain]
+				[org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api]:173] Initializing Spring embedded WebApplicationContext
+2024-02-25 11:48:17.080 [INFO] [restartedMain]
+				[org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8080"]
+2024-02-25 11:48:17.198 [INFO] [restartedMain]
+				[com.ninyo.player.Application:56] Started Application in 19.588 seconds (process running for 21.288)
+2024-02-25 11:48:29.275 [INFO] [http-nio-8080-exec-1]
+				[org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-25 11:49:04.908 [INFO] [SpringApplicationShutdownHook]
+				[com.zaxxer.hikari.HikariDataSource:350] HikariPool-1 - Shutdown initiated...
+2024-02-25 11:49:04.995 [INFO] [SpringApplicationShutdownHook]
+				[com.zaxxer.hikari.HikariDataSource:352] HikariPool-1 - Shutdown completed.
+2024-02-25 11:55:36.519 [INFO] [restartedMain]
+				[com.ninyo.player.Application:50] Starting Application using Java 21.0.1 with PID 12944 (E:\zMy Drive\workspace_intellij\Spring Batch\player-service\target\classes started by Oren in E:\zMy Drive\workspace_intellij\Spring Batch\player-service)
+2024-02-25 11:55:36.577 [INFO] [restartedMain]
+				[com.ninyo.player.Application:654] No active profile set, falling back to 1 default profile: "default"
+2024-02-25 11:55:40.781 [INFO] [restartedMain]
+				[com.zaxxer.hikari.HikariDataSource:110] HikariPool-1 - Starting...
+2024-02-25 11:55:41.964 [INFO] [restartedMain]
+				[com.zaxxer.hikari.pool.HikariPool:565] HikariPool-1 - Added connection conn0: url=jdbc:h2:file:./data/playerdb user=SA
+2024-02-25 11:55:41.969 [INFO] [restartedMain]
+				[com.zaxxer.hikari.HikariDataSource:123] HikariPool-1 - Start completed.
+2024-02-25 11:55:42.387 [INFO] [restartedMain]
+				[org.hibernate.jpa.internal.util.LogHelper:31] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-25 11:55:42.927 [INFO] [restartedMain]
+				[org.hibernate.Version:44] HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-02-25 11:55:43.580 [INFO] [restartedMain]
+				[org.hibernate.cache.internal.RegionFactoryInitiator:50] HHH000026: Second-level cache disabled
+2024-02-25 11:55:47.967 [INFO] [restartedMain]
+				[org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-02-25 11:55:49.853 [INFO] [restartedMain]
+				[org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8080"]
+2024-02-25 11:55:49.859 [INFO] [restartedMain]
+				[org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2024-02-25 11:55:49.860 [INFO] [restartedMain]
+				[org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-02-25 11:55:50.044 [INFO] [restartedMain]
+				[org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api]:173] Initializing Spring embedded WebApplicationContext
+2024-02-25 11:55:53.357 [INFO] [restartedMain]
+				[org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8080"]
+2024-02-25 11:55:53.434 [INFO] [restartedMain]
+				[com.ninyo.player.Application:56] Started Application in 18.853 seconds (process running for 20.414)
+2024-02-25 11:56:12.416 [INFO] [http-nio-8080-exec-1]
+				[org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-25 11:56:51.307 [INFO] [SpringApplicationShutdownHook]
+				[com.zaxxer.hikari.HikariDataSource:350] HikariPool-1 - Shutdown initiated...
+2024-02-25 11:56:51.419 [INFO] [SpringApplicationShutdownHook]
+				[com.zaxxer.hikari.HikariDataSource:352] HikariPool-1 - Shutdown completed.
